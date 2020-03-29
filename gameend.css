@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin: 0px auto;
+}
+#return-box {
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    margin-right: 30px;
+    margin-top: 80px;
+    border: solid 2px #005FFF;
+    border-radius: 5px;
+    background: #75A9FF;
+}

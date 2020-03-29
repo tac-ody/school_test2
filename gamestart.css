@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.box {
+    width: 150px;
+    margin-bottom: 10px;
+}
+#submit {
+    background: #75A9FF;
+    border: solid 2px #005FFF;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px 25px;
+    margin-top: 20px;
+}
